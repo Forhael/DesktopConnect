@@ -1,5 +1,5 @@
 {
-	"name": "@meowarex/TidalLuna-Plugins",
+	"name": "@twojastara/TidalLuna-Plugins",
 	"description": "A Collection of Plugins for TidalLuna",
 	"type": "module",
 	"scripts": {
